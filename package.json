@@ -7,7 +7,13 @@
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["express", "mongoose", "ecommerce", "api", "backend"],
+  "keywords": [
+    "express",
+    "mongoose",
+    "ecommerce",
+    "api",
+    "backend"
+  ],
   "author": "Prashant Srivastava",
   "license": "ISC",
   "dependencies": {
